@@ -1,4 +1,4 @@
-# Meeting audio → minutes
+# Meeting Transcriber
 
 A Python CLI that prepares one or more audio tracks with local voice activity
 detection, transcribes them through OpenAI, and produces meeting minutes and
