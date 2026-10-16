@@ -679,7 +679,7 @@ def parser():
         ],
         default="gpt-transcribe",
     )
-    p.add_argument("--summary-model", default="gpt-6.1-sol")
+    p.add_argument("--summary-model", default="gpt-6-luna")
     p.add_argument("--language", default="zh")
     p.add_argument("--summary-chars", type=int, default=24000)
     return p
